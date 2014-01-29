@@ -1,0 +1,6 @@
+C:\Users\DennisMG\Documents\Visual Studio 2013\Projects\UNITEC\Programacion 4\Tarea_1_Ejercicios\Tarea_1_Ejercicios\bin\Debug\Tarea_1_Ejercicios.exe.config
+C:\Users\DennisMG\Documents\Visual Studio 2013\Projects\UNITEC\Programacion 4\Tarea_1_Ejercicios\Tarea_1_Ejercicios\obj\Debug\Tarea_1_Ejercicios.csprojResolveAssemblyReference.cache
+C:\Users\DennisMG\Documents\Visual Studio 2013\Projects\UNITEC\Programacion 4\Tarea_1_Ejercicios\Tarea_1_Ejercicios\bin\Debug\Tarea_1_Ejercicios.exe
+C:\Users\DennisMG\Documents\Visual Studio 2013\Projects\UNITEC\Programacion 4\Tarea_1_Ejercicios\Tarea_1_Ejercicios\bin\Debug\Tarea_1_Ejercicios.pdb
+C:\Users\DennisMG\Documents\Visual Studio 2013\Projects\UNITEC\Programacion 4\Tarea_1_Ejercicios\Tarea_1_Ejercicios\obj\Debug\Tarea_1_Ejercicios.exe
+C:\Users\DennisMG\Documents\Visual Studio 2013\Projects\UNITEC\Programacion 4\Tarea_1_Ejercicios\Tarea_1_Ejercicios\obj\Debug\Tarea_1_Ejercicios.pdb
